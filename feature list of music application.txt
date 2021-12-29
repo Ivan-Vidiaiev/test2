@@ -1,0 +1,18 @@
+Feature list : Music application 
+Agenda:
+1.This application should be similar to spotify(this means that content may be simmilar)
+2.User has the ability to download music,add music,save music,creat playlist ,creat albums,buy and pay for music.
+3.Payment methods (by credit card or apple pay) 
+4.Login-logout. User and artist have different accounts.All unformation about user must be saved(in storage).If user account has broken.
+5.Communication.(user must share his ideas,comment new music)
+6.This application must work on IOS and Android platforms.
+7.This application should include storage with music which must be saved.
+8.This application must include flexiable system search( machine learning).
+9.User should follow for artist and find out music.
+10.Collaboration.This application must consist not only of music.It shoul be podcast(videos in future)
+Also,this iteam should install of radio station.
+11.Lisense.All music must have lisense and it must be protected of illegal content.
+12.User can estimate music(put like or dislike)
+13.User sould listening to music online and offline.
+14.Design must be uniq.
+15.This iteam must be differnt from other application by fleaxiable search.
